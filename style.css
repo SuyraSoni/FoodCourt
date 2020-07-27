@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+html{
+	scroll-behavior: smooth;
+}
+body{
+	font-family:"Comic Sans MS",sans-serif;
+	text-align:center;
+	
+	background-image: url(C:\Users\SuRu\Desktop\Web-Rev\CodeWithME\Projects\Foot UX-UI Design\images\background-image-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; /*Cover Photo*/
+    background-attachment: fixed;
+}
+
+h1{
+	font-family:castellar, sans-serif;
+	font-size:40px;
+}
+
+h2{
+	background:linear-gradient(45deg,red,black,red);
+	color:white;
+	padding:15px;
+	border-radius:50%;
+	width:800px;
+	margin:auto;
+	box-shadow:0 0 10px black;
+}
+
+table{
+	width:100%;
+}
+
+table img{
+	border-radius:10px;
+	box-shadow: 0 0 10px black;
+}
