@@ -30,6 +30,7 @@ h2{
 
 table{
 	width:100%;
+	display:inline block;
 }
 
 table img{
